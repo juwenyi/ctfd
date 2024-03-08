@@ -1,6 +1,7 @@
 # ctfd
 ctfd动态靶机修改版支持一键部署，多处优化，中文界面优化，去除无用界面
-以centos为例：部署方法
+以centos为例：部署方法可以查看我的博客
+https://blog.csdn.net/zwy3327078581/article/details/134516634?spm=1001.2014.3001.5501
 
 1.yum update
 
@@ -44,3 +45,5 @@ sudo systemctl restart docker
 16.docker-compose build
 
 17.docker-compose up -d
+
+根据csdn博主博主Vicosna修改版再度修改。删减内容。
