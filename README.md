@@ -1,6 +1,7 @@
 # ctfd
 ctfd动态靶机修改版支持一键部署，多处优化，中文界面优化，去除无用界面
 以centos为例：部署方法
+
 1.yum update
 
 2.yum install -y yum-utils
